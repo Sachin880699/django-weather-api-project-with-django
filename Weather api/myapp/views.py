@@ -13,7 +13,7 @@ def home(request):
 
 
     # Enter your API key here
-    api_key = "00d1693ce529e18035487523049e4d8f"
+    api_key = "00d1693ce529e1803548752304sd9e4d8fjhg"
 
     # base_url variable to store url
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
